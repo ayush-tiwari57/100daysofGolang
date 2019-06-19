@@ -12,6 +12,6 @@ func main() {
 	if num1 > num2 {
 		fmt.Println(num1, "is greater")
 	} else {
-		fmt.Println(num2, "is greater")
+		fmt.Println(num1, "is smaller")
 	}
 }
